@@ -8,7 +8,7 @@
 # Giới thiệu bản thân
 Họ và tên sinh viên: Nguyễn Đức Anh</br>
 MSSV: 22520053 </br>
-Ngành theo học hiện tại: Khoa học máy tính 
+khoa: Khoa học máy tính 
 
 # Thông tin Môn học
 <table>
