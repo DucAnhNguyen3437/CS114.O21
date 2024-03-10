@@ -1,1 +1,1 @@
-https://www.uit.edu.vn/
+Trường Đại học Công nghệ Thông tin
