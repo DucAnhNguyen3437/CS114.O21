@@ -5,6 +5,11 @@
 </p>
 <h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
+# Giới thiệu bản thân
+Họ và tên sinh viên: Nguyễn Đức Anh</br>
+MSSV: 22520053 </br>
+Ngành theo học hiện tại: Khoa học máy tính 
+
 # Thông tin Môn học
 <table>
   <tr><th>Môn Học     </th><td>Máy học (Machine Learning)</td></tr>
